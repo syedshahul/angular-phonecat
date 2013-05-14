@@ -3,6 +3,25 @@ nbproject
 manifest.mf
 build.xml
 
+
+# Maven build artifacts
+target
+java/out
+# IntelliJ project files
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
 .project
 .settings
-.idea/*
+.classpath
+bin
+
+# Vim temporary files
+*.swp
+
+# Sublime files
+*.sublime-*
+
